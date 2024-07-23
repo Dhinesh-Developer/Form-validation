@@ -1,0 +1,98 @@
+*{
+    background-color: black;
+    color: blue;
+    display: block;
+    justify-items: center;
+    
+}
+h2{
+    text-align: center;
+    margin-top: 25px;
+    justify-content: center;
+    color: blue;
+    display: flex;
+}
+.cl{
+    justify-items: center;
+    background-color:blue;
+    color: whitesmoke;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    margin-left: 40%;
+    display: flex;
+}
+input{
+    background-color: white;
+    color: blue;
+    width: 200px;
+    height:fit-content;
+}
+label{
+    width: 200px;
+    padding: 10px;
+    color: blue;
+}
+
+#UserName{
+    background-color: antiquewhite;
+    color: blue;
+    width: 500px;
+    height: 25px;
+    justify-items: center;
+    margin-left: 30%;
+}
+#us{
+    margin-left: 30%;
+    display: flex;
+}
+#e{
+    margin-left: 30%;
+    display: flex;
+}
+#Email{
+    background-color: antiquewhite;
+    color: blue;
+    width: 500px;
+    height: 25px;
+    justify-items: center;
+    margin-left: 30%;
+}
+#p{
+    margin-left: 30%;
+    display: flex;
+}
+#PhoneNumber{
+    background-color: antiquewhite;
+    color: blue;
+    width: 500px;
+    height: 25px;
+    justify-items: center;
+    margin-left: 30%;
+}
+#w{
+    margin-left: 30%;
+    display: flex;
+}
+#c{
+    margin-left: 30%;
+    display: flex;
+}
+#Password{
+    background-color: antiquewhite;
+    color: blue;
+    width: 500px;
+    height: 25px;
+    justify-items: center;
+    margin-left: 30%;
+}
+.c{
+    background-color: rgb(234, 236, 226);
+    color: blue;
+    width: 500px;
+    height: 25px;
+    justify-items: center;
+    margin-left: 30%;
+    border-radius: 10px;
+    border-width: 2px;
+}
